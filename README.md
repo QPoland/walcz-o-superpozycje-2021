@@ -3,5 +3,3 @@ Repozytorium zawiera pliki zadania oraz najlepsze rozwiązania z konkursu "Walcz
 Folder "zadanie_konkursowe" zawiera pliki związane z zadaniem - jego treść oraz pliki potrzebne do uruchomienia notebooka.
 Folder "przygotowanie_srodowiska" zawiera instrukcję oraz pliki potrzebne do przygotowania środowiska.
 FOlder "najlepsze_zgloszenia" zawiera rozwiązania zgłoszone do konkursu przez osoby, które zajęły w nim czołowe miejsca.
-
-# walcz-o-superpozycje-2021
